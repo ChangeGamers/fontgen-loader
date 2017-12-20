@@ -21,7 +21,7 @@
   "license": "MIT",
   "dependencies": {
     "loader-utils": "^0.2.10",
-    "webfonts-generator": "ChangeGamers/webfonts-generator#v0.3.4-1",
+    "webfonts-generator": "ChangeGamers/webfonts-generator#4c3562a",
     "glob": "^6.0.2"
   },
   "devDependencies": {
